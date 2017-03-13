@@ -31,4 +31,4 @@ https://corvette.ischool.utexas.edu/ilinked/home.php
 15. Title.csv
 
 ###Entity-relationship diagram of this database: 
-![alt text] https://github.com/xuechenli/Database-Management/blob/master/iLinked%20ERD.png
+(https://github.com/xuechenli/Database-Management/blob/master/iLinked%20ERD.png)
